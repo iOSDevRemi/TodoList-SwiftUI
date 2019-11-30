@@ -1,8 +1,8 @@
 //
 //  NotificationView.swift
-//  Todo WatchKit Extension
+//  TodoWatchOS WatchKit Extension
 //
-//  Created by daniel d4 on 20/11/2019.
+//  Created by daniel d4 on 22/11/2019.
 //  Copyright © 2019 Remi Herbiet. All rights reserved.
 //
 
